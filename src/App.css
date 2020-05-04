@@ -1,0 +1,11 @@
+.parent{
+  margin-left: 50px;
+}
+
+.parent button{
+  border-radius: 5px;
+  width: 100px;
+  background-color: aqua;
+  border: none;
+  cursor: pointer;
+}
